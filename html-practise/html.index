@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VS code for beginners</title>
+</head>
+<body>
+   
+  <nav> 
+  <ul>
+    
+  <h1>Visual Studio Code</h1>
+  <a href="./contact us.html">contact us</a> <a href="./about us.html">about us</a>  <a href="./Frequently Asked Questions.html">Frequently Asked Questions</a>  <a href="./copyright law.html">copyright law</a>
+<br>
+<br>
+<br>
+
+
+  <img src="VS code logo.jpg" width="400" height="400">       <img src="VS code.jpg" width="400" height="400"> 
+
+  <p>These two images display how the visual studio code logo looks like as well as how the actual software looks
+     once the user/s run the software. The image on the right shows a few tags that you may or may not be familiar
+     with, but is used to create a set of codes which then will be turned into a webpage for everyone to browse. </p>
+
+ 
+     <h2>What is Visual studio Code?</h2>
+
+     <p>Visual Studio Code is a streamlined code editor with support for development operations like
+       debugging, task running and version control.  It aims to provide just the tools a developer 
+       needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs,
+       such as Visual Studio IDE. </p>
+ 
+     <h2>what are the advantages of learning Visual Studio Code?</h2>
+  <header>There are numerous advantages of learning and being experienced with VS code such as starting your own business 
+  where you develop websites for local and small companies until you have gained the confidence and the experience to 
+  handle bigger companies. Other advantages could be making your job application for digital marketer more appealing to employers. </header>
+
+    <h2>Where can I learn more about Visual Studio Code?</h2>
+
+      
+
+    
+  </nav>
+  </ul>
+  <li>
+  
+  </li>
+
+  
+   
+    <nav> 
+    <ul>
+</body>
+</html>
